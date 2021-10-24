@@ -23,8 +23,8 @@
 
 ## Research papers that I want to read / that I'm reading
 
-| Year | Title | Description |
-| - | - | - | - |
+| Year | Title                                        | Description                                   |
+| ---- | -------------------------------------------- | --------------------------------------------- |
 | 2021 | TypeNet - Deep Learning Keystrong Biometrics | Fingerprinting users by their typing behavior |
 
 ## Booklists
