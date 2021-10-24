@@ -15,11 +15,17 @@
 
 - [Prescience's dark-knowledge](https://github.com/prescience-data/dark-knowledge)
 
-## Research papers
+## Research papers that I read
 
 | Year | Title                                                                                                                                                                                                                                                                 | Interest rating |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 2021 | [Your Phone is My Proxy - Detecting and Understanding Mobile   Proxy   Networks](https://github.com/prescience-data/dark-knowledge/blob/main/library/2021%20-%20Your%20Phone%20is%20My%20Proxy%20-%20Detecting%20and%20Understanding%20Mobile%20Proxy%20Networks.pdf) | 8/10            |
+
+## Research papers that I want to read / that I'm reading
+
+| Year | Title | Description |
+| - | - | - | - |
+| 2021 | TypeNet - Deep Learning Keystrong Biometrics | Fingerprinting users by their typing behavior |
 
 ## Booklists
 
